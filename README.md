@@ -2,13 +2,9 @@
 
 ## Project Overview
 
-I created this project to design and secure an enterprise network from the ground up using Cisco Packet Tracer. Instead of starting with a predefined topology or following a step-by-step lab, I wanted to approach the project more like a real network deployment.
+I created this project to design and secure an enterprise network from the ground up using Cisco Packet Tracer. Instead of starting with a predefined topology or following a step-by-step lab, I wanted to approach the project more like a real network deployment. I started by creating a business scenario and gathering requirements before choosing any equipment or building the topology. My goal is to work through the same types of decisions I would need to make in a networking or security role, including capacity planning, redundancy, network segmentation, routing, access control, secure management, and troubleshooting.
 
-I started by creating a business scenario and gathering requirements before choosing any equipment or building the topology. My goal is to work through the same types of decisions I would need to make in a networking or security role, including capacity planning, redundancy, network segmentation, routing, access control, secure management, and troubleshooting.
-
-This project also serves as a hands-on refresher for networking concepts I have previously studied while giving me an opportunity to apply them together in a larger environment.
-
-The network represents a growing company with a headquarters in Florida, a branch office in Georgia, and remote employees throughout the United States.
+This project also serves as a hands-on refresher for networking concepts I have previously studied while giving me an opportunity to apply them together in a larger environment. The network represents a growing company with a headquarters in Florida, a branch office in Georgia, and remote employees throughout the United States.
 
 ---
 
